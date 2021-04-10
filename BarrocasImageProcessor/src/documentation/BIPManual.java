@@ -25,41 +25,31 @@ public class BIPManual {
 	private String [] contents = new String [] {
 			"BARROCAS' IMAGE PROCESSOR"
 			,
-			"Querido pai\r\n" +
-			"Quero introduzir a você o nosso Software chamado "
-			+ "Barrocas' Image Processor. Fi-lo porque quero que ele "
-			+ "seja uma ferramenta que lhe ajude nas atividades que você "
-			+ "quer desenvolver para o seu projeto na UFC. Espero que este "
-			+ "Software lhe ajude a resolver os problemas que você enfrentar "
-			+ "de agora em diante no seu projeto.\r\n" +
-			"Abraço\r\n" +
-			"Samuel\r\n"
-			,
-			"INTRODUÇÃO: SISTEMA DE CORES RGB\r\n"
+			"INTRODUÃ‡ÃƒO: SISTEMA DE CORES RGB\r\n"
 			,
 			"A sigla RGB vem de Red-Green-Blue (Vermelho-Verde-Azul). Este sistema "
-			+ "é formado por uma tripla de valores em que cada um deles varia de 0 até 255. "
-			+ "Cada valor representa a intensidade de vermelho, verde e azul, e a combinação "
-			+ "destas intensidades forma a cor do pixel em questão. Por exemplo, uma tripla "
-			+ "(230, 45, 56) indica uma cor cuja intensidade de vermelho é 230, de verde é 45 e "
-			+ "de azul é 56. Como uma conseqüência desta definição, a tripla (0, 0, 0) representa "
-			+ "a cor preta (que é a ausência de qualquer intensidade de cor), e a tripla "
-			+ "(255, 255, 255) representa a cor branca (que é a sobreposição de todas as cores até "
-			+ "o nível máximo). Outra tripla notável é a que representa o vermelho (255, 0, 0).\r\n"
+			+ "Ã© formado por uma tripla de valores em que cada um deles varia de 0 atÃ© 255. "
+			+ "Cada valor representa a intensidade de vermelho, verde e azul, e a combinaÃ§Ã£o "
+			+ "destas intensidades forma a cor do pixel em questÃ£o. Por exemplo, uma tripla "
+			+ "(230, 45, 56) indica uma cor cuja intensidade de vermelho Ã© 230, de verde Ã© 45 e "
+			+ "de azul Ã© 56. Como uma conseqÃ¼Ãªncia desta definiÃ§Ã£o, a tripla (0, 0, 0) representa "
+			+ "a cor preta (que Ã© a ausÃªncia de qualquer intensidade de cor), e a tripla "
+			+ "(255, 255, 255) representa a cor branca (que Ã© a sobreposiÃ§Ã£o de todas as cores atÃ© "
+			+ "o nÃ­vel mÃ¡ximo). Outra tripla notÃ¡vel Ã© a que representa o vermelho (255, 0, 0).\r\n"
 			,
 			"::path:: C:\\Users\\Samuel\\eclipse-workspace\\BarrocasImageProcessor\\Figures\\figure1.png"
 			,
-			"Neste estado, os únicos botões habilitados são \"Load Image\" e \"Choose File\", e é possível também alterar o caminho "
-			+ "do arquivo que se deseja abrir, tanto editando a área de texto do caminho quanto em clicando em Choose File e "
+			"Neste estado, os Ãºnicos botÃµes habilitados sÃ£o \"Load Image\" e \"Choose File\", e Ã© possÃ­vel tambÃ©m alterar o caminho "
+			+ "do arquivo que se deseja abrir, tanto editando a Ã¡rea de texto do caminho quanto em clicando em Choose File e "
 			+ " abrindo o arquivo desejado. Ao abrirmos o arquivo Samuel012.jpg no caminho especificado, "
 			+ "obtemos a seguinte tela:\r\n" + 
 			""
 			,
 			"::path:: C:\\Users\\Samuel\\eclipse-workspace\\BarrocasImageProcessor\\Figures\\figure2.png"
 			,
-			"Desta tela, é possível fazer algumas operações básicas: somar valores (botão \"Sum to Image\"), subtrair (botão \"Sub to Image\"),"
-			+ "diminuir a resolução da imagem (\"Decrease Figure Size (Only Odd Pixels)\"), ou etc... Para que o usuário tenha"
-			+ "acesso a opções avançadas, deve clicar no botão Custom. Após o clique neste botão, a seguinte tela sera exibida:"
+			"Desta tela, Ã© possÃ­vel fazer algumas operaÃ§Ãµes bÃ¡sicas: somar valores (botÃ£o \"Sum to Image\"), subtrair (botÃ£o \"Sub to Image\"),"
+			+ "diminuir a resoluÃ§Ã£o da imagem (\"Decrease Figure Size (Only Odd Pixels)\"), ou etc... Para que o usuÃ¡rio tenha"
+			+ "acesso a opÃ§Ãµes avanÃ§adas, deve clicar no botÃ£o Custom. ApÃ³s o clique neste botÃ£o, a seguinte tela sera exibida:"
 			,
 			"::path:: C:\\Users\\Samuel\\eclipse-workspace\\BarrocasImageProcessor\\Figures\\figure3.png"
 	};
